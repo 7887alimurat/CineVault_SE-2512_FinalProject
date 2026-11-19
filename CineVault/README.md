@@ -31,7 +31,3 @@ Then open `http://localhost:8000`. A local server is needed for reliable API req
 - Save shows from the home page, catalog, or details page. The watchlist persists in the browser.
 - Theme, demo accounts, and contact notes are also stored locally.
 - This is a front-end class demonstration, not real authentication. Passwords are stored in plain text in this browser. Use a unique demo password and never enter a password you use elsewhere.
-
-## Hosting and submission
-
-Publish the folder with GitHub Pages, Netlify, or Vercel. Add the live URL and repository URL to `CineVault_SE-2512_Links.txt` before submitting. The report should include final site screenshots after publication.
